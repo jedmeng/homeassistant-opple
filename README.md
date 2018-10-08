@@ -1,4 +1,10 @@
-[Home Assistant](https://www.home-assistant.io/) component of [Konke](http://www.ikonke.com/) devices
+***************
+WARNING: THIS REPOSITORY IS DEPRECATED
+====================================
+This component has been merged into [Home Assistant](https://github.com/home-assistant/home-assistant/blob/dev/homeassistant/components/light/opple.py) and this repository is no longer being maintained.
+***************
+
+[Home Assistant](https://www.home-assistant.io/) component of [opple](http://www.opple.com/) devices
 
 # Supported Devices
 
